@@ -1,7 +1,7 @@
 Feedbin Support
 ===============
 
-Welcome to Feedbin support. You can email support at [support@feedbin.me](mailto:support@feedbin.me), or [open a new support request](/feedbin/support/issues).
+Welcome to Feedbin support. You can email support at [support@feedbin.me](mailto:support@feedbin.me), or [open a new support request](https://github.com/feedbin/support/issues).
 
 Feedbin Guide
 -------------
