@@ -13,3 +13,4 @@ These can be used in your [Sharing settings](https://feedbin.me/settings/sharing
 | Pocket     | `https://getpocket.com/save?url=${url}&title=${title}`                             |
 | Readability| `https://www.readability.com/save?url=${url}`                                      |
 | Twitter    | `https://twitter.com/intent/tweet?url=${url}&text=${title}`                        |
+| Buffer     | `http://bufferapp.com/add?url=${url}&text=${title}`                                |
