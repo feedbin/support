@@ -1,5 +1,5 @@
 Sharing Services
-----------------
+================
 
 These can be used in your [Sharing settings](https://feedbin.me/settings/sharing).
 
