@@ -8,6 +8,7 @@ These can be used in your [Sharing settings](https://feedbin.me/settings/sharing
 | App.net    | `https://alpha.app.net/intent/post?text=${title}+${url}`                           |
 | Buffer     | `http://bufferapp.com/add?url=${url}&text=${title}`                                |
 | Email      | `mailto:?subject=${title}&body=${url}`                                             |
+| Evernote   | `https://www.evernote.com/clip.action?url=${url}&title=${title}`                   |
 | Facebook   | `http://www.facebook.com/sharer.php?u=${url}&t=${title}`                           |
 | Google+    | `https://plus.google.com/share?url=${url}`                                         |
 | Instapaper | `http://www.instapaper.com/hello2?url=${url}&title=${title}`                       |
