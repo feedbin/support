@@ -19,4 +19,5 @@ These can be used in your [Sharing settings](https://feedbin.me/settings/sharing
 | Pocket     | `https://getpocket.com/save?url=${url}&title=${title}`                             |
 | Readability| `https://www.readability.com/save?url=${url}`                                      |
 | Tumblr     | `http://www.tumblr.com/share?v=3&u=${url}&t=${title}`                              |
+| Tweetbot   | `tweetbot:///post?text=${title}%20${url}`                                          |
 | Twitter    | `https://twitter.com/intent/tweet?url=${url}&text=${title}`                        |
