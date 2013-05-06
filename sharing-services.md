@@ -12,6 +12,7 @@ These can be used in your [Sharing settings](https://feedbin.me/settings/sharing
 | Facebook   | `http://www.facebook.com/sharer.php?u=${url}&t=${title}`                           |
 | Google+    | `https://plus.google.com/share?url=${url}`                                         |
 | Instapaper | `http://www.instapaper.com/hello2?url=${url}&title=${title}`                       |
+| Kippt      | `https://kippt.com/extensions/new/?url=${url}&title=${title}`                      |
 | LinkedIn   | `http://www.linkedin.com/shareArticle?title=${title}&url=${url}`                   |
 | Pinboard   | `https://pinboard.in/add?next=same&url=${url}&description=${title}&title=${title}` |
 | Pintrest   | `http://pinterest.com/pin/find/?url=${url}`                                        |
