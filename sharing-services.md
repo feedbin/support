@@ -22,3 +22,4 @@ These can be used in your [Sharing settings](https://feedbin.me/settings/sharing
 | Tweetbot        | `tweetbot:///post?text=${title}%20${url}`                                          |
 | Twitter         | `https://twitter.com/intent/tweet?url=${url}&text=${title}`                        |
 | Twitter for Mac | `twitter://post?message=${title}%20${url}`                                         |
+| Twitterrific    | `twitterrific:///post?message=${title}%20${url}`                                   |
