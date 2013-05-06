@@ -17,4 +17,5 @@ These can be used in your [Sharing settings](https://feedbin.me/settings/sharing
 | Pintrest   | `http://pinterest.com/pin/find/?url=${url}`                                        |
 | Pocket     | `https://getpocket.com/save?url=${url}&title=${title}`                             |
 | Readability| `https://www.readability.com/save?url=${url}`                                      |
+| Tumblr     | `http://www.tumblr.com/share?v=3&u=${url}&t=${title}`                              |
 | Twitter    | `https://twitter.com/intent/tweet?url=${url}&text=${title}`                        |
