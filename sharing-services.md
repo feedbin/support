@@ -7,6 +7,7 @@ These can be used in your [Sharing settings](https://feedbin.me/settings/sharing
 | ------------------- | ---------------------------------------------------------------------------------- |
 | App.net             | `https://alpha.app.net/intent/post?text=${title}+${url}`                           |
 | Buffer              | `http://bufferapp.com/add?url=${url}&text=${title}`                                |
+| Douban              | `http://www.douban.com/recommend/?url=${url}&title=${title}`                       |
 | Email               | `mailto:?subject=${title}&body=${url}`                                             |
 | Evernote            | `https://www.evernote.com/clip.action?url=${url}&title=${title}`                   |
 | Facebook            | `http://www.facebook.com/sharer.php?u=${url}&t=${title}`                           |
