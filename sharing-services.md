@@ -14,6 +14,7 @@ These can be used in your [Sharing settings](https://feedbin.me/settings/sharing
 | Gmail for iOS       | `googlegmail:///co?subject=${title}&body=${url}`                                   |
 | Google+             | `https://plus.google.com/share?url=${url}`                                         |
 | Instapaper          | `http://www.instapaper.com/hello2?url=${url}&title=${title}`                       |
+| Instapaper Text     | `http://www.instapaper.com/text?u=${url}`                                          |
 | Kippt               | `https://kippt.com/extensions/new/?url=${url}&title=${title}`                      |
 | LinkedIn            | `http://www.linkedin.com/shareArticle?title=${title}&url=${url}`                   |
 | Pinboard            | `https://pinboard.in/add?next=same&url=${url}&description=${title}&title=${title}` |
