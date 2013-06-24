@@ -22,7 +22,7 @@ These can be used in your [Sharing settings](https://feedbin.me/settings/sharing
 | Omnifocus           | `omnifocus:///add?name=${title}&note=${url}`                                       |
 | Pinboard            | `https://pinboard.in/add?next=same&url=${url}&description=${title}&title=${title}` |
 | Pinner              | `pinner://bookmark?href=${url}&title=${title}&shared=0&toread=1`                   |
-| Pintrest            | `http://pinterest.com/pin/find/?url=${url}`                                        |
+| Pinterest            | `http://pinterest.com/pin/find/?url=${url}`                                        |
 | Plurk               | `http://www.plurk.com/m?content=${url}+(${title})&qualifier=shares`                |
 | Pocket              | `https://getpocket.com/save?url=${url}&title=${title}`                             |
 | Pocket for iOS      | `pocket://add?url=${url}`                                                          | 
