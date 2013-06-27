@@ -7,6 +7,7 @@ These can be used in your [Sharing settings](https://feedbin.me/settings/sharing
 | ------------------- | ---------------------------------------------------------------------------------- |
 | App.net             | `https://alpha.app.net/intent/post?text=${title}+${url}`                           |
 | Buffer              | `http://bufferapp.com/add?url=${url}&text=${title}`                                |
+| Delicious           | `https://delicious.com/save?&url=${url}&title=${title}`                            |
 | Douban              | `http://www.douban.com/recommend/?url=${url}&title=${title}`                       |
 | Drafts              | `drafts://x-callback-url/create?text=${title}+${url}`                              |
 | Email               | `mailto:?subject=${title}&body=${url}`                                             |
