@@ -13,6 +13,7 @@ These can be used in your [Sharing settings](https://feedbin.me/settings/sharing
 | Evernote            | `https://www.evernote.com/clip.action?url=${url}&title=${title}`                   |
 | Facebook            | `http://www.facebook.com/sharer.php?u=${url}&t=${title}`                           |
 | Gmail for iOS       | `googlegmail:///co?subject=${title}&body=${url}`                                   |
+| Gmail Webmail       | `https://mail.google.com/mail/?view=cm&su=${title}&body=${url}`                    |
 | Google+             | `https://plus.google.com/share?url=${url}`                                         |
 | Hufferduffer        | `http://huffduffer.com/add?popup=true&page=${url}`                                 |
 | Instapaper          | `http://www.instapaper.com/hello2?url=${url}&title=${title}`                       |
