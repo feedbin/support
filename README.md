@@ -7,4 +7,5 @@ Feedbin Guide
 -------------
  - [Keyboard Shortcuts](keyboard-shortcuts.md)
  - [Sharing Services](sharing-services.md)
+ - [Subscriber Statistics](subscriber-statistics.md)
 
