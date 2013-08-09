@@ -29,6 +29,7 @@ These can be used in your [Sharing settings](https://feedbin.me/settings/sharing
 | Plurk               | `http://www.plurk.com/m?content=${url}+(${title})&qualifier=shares`                |
 | Pocket              | `https://getpocket.com/save?url=${url}&title=${title}`                             |
 | Pocket for iOS      | `pocket://add?url=${url}`                                                          | 
+| Quitter               'http://quitter.se/?action=newnotice&status_textarea=${title}${url}'
 | Readability         | `https://www.readability.com/save?url=${url}`                                      |
 | The List            | `http://thelist.io/posts/new?u=${url}&t=${title}`                                  |
 | Tumblr              | `http://www.tumblr.com/share?v=3&u=${url}&t=${title}`                              |
