@@ -24,6 +24,7 @@ These can be used in your [Sharing settings](https://feedbin.me/settings/sharing
 | LinkedIn            | `http://www.linkedin.com/shareArticle?title=${title}&url=${url}`                   |
 | Omnifocus           | `omnifocus:///add?name=${title}&note=${url}`                                       |
 | Pinboard            | `https://pinboard.in/add?next=same&url=${url}&description=${title}&title=${title}` |
+| Pinboard (read later) | `https://pinboard.in/add?later=yes&url=${url}&title=${title}&description=${title}` |
 | Pinner              | `pinner://bookmark?href=${url}&title=${title}&shared=0&toread=1`                   |
 | Pinterest            | `http://pinterest.com/pin/find/?url=${url}`                                        |
 | Plurk               | `http://www.plurk.com/m?content=${url}+(${title})&qualifier=shares`                |
