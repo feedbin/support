@@ -6,6 +6,7 @@ These can be used in your [Sharing settings](https://feedbin.me/settings/sharing
 | Label                 | URL                                                                                |
 |-----------------------|------------------------------------------------------------------------------------|
 | App.net               | `https://alpha.app.net/intent/post?text=${title}+${url}`                           |
+| Bookie                | `https://bmark.us/{USERNAME}/new?description=${title}&url=${url}`                  |
 | Buffer                | `http://bufferapp.com/add?url=${url}&text=${title}`                                |
 | Delicious             | `https://delicious.com/save?&url=${url}&title=${title}`                            |
 | Douban                | `http://www.douban.com/recommend/?url=${url}&title=${title}`                       |
