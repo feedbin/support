@@ -39,3 +39,4 @@ These can be used in your [Sharing settings](https://feedbin.me/settings/sharing
 | Twitter               | `https://twitter.com/intent/tweet?url=${url}&text=${title}`                        |
 | Twitter for Mac/iOS   | `twitter://post?message=${title}%20${url}`                                         |
 | Twitterrific          | `twitterrific:///post?message=${title}%20${url}`                                   |
+| Weibo                 | `http://service.weibo.com/share/share.php?url=${url}&title=${title}`               |
