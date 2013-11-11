@@ -14,7 +14,7 @@ These can be used in your [Sharing settings](https://feedbin.me/settings/sharing
 | Email                 | `mailto:?subject=${title}&body=${url}`                                             |
 | Evernote              | `https://www.evernote.com/clip.action?url=${url}&title=${title}`                   |
 | Facebook              | `http://www.facebook.com/sharer.php?u=${url}&t=${title}`                           |
-| Flipboard             | `https://share.flipboard.com/flipit/load?v=1.0&url=${url}&title=${title}`          |
+| Flipboard             | `https://share.flipboard.com/bookmarklet/popout?v=2&title=${title}&url=${url}`     |
 | Gmail for iOS         | `googlegmail:///co?subject=${title}&body=${url}`                                   |
 | Gmail Webmail         | `https://mail.google.com/mail/?view=cm&su=${title}&body=${url}`                    |
 | Google+               | `https://plus.google.com/share?url=${url}`                                         |
